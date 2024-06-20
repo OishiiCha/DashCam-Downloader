@@ -1,0 +1,2 @@
+BASE_URL=http://192.168.0.39:8002/files/
+LOCAL_DIRECTORY=/Users/username/Documents/test
